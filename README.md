@@ -1,10 +1,10 @@
 
- ## 1 Installed the app and done testing of app:
+ ### 1 Installed the app and done testing of app:
  
   ### 1. Not able to select files(image , audio, and video) from the device except google photos and albums.
   ### 2. Why Black screen appear if we are not able to select files?.
   ### 3. No Preview of image and audio file.
-  ### 4. I choosed image option but I can upload video from albums which is weird
+  ### 4. I choosed image option but I can upload video from albums which is weird.
 
 ## 2 Features that can be added:
 
