@@ -13,4 +13,4 @@
 ### 3. When I open the uploaded video I am not able to download the video.
 ### 4. Preview of image and audio file.
 ## Installation of Andriod Studio 
-### 1 Downloaded the andriod studio currenlty in process
+### 1 Downloaded the android studio currenlty in process
