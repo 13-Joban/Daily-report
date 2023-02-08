@@ -1,5 +1,5 @@
 
- ### 1 Installed the app and done testing of app:
+ ## 1 Installed the app and done testing of app:
  
   ### 1. Not able to select files(image , audio, and video) from the device except google photos and albums.
   ### 2. Why Black screen appear if we are not able to select files?.
